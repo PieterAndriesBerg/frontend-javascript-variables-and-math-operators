@@ -40,8 +40,8 @@ console.log(flavour);
 // ==========================================
 const firstName = "Pieter-Andries";
 const lastName = "van der Berg"
-const name = firstName + " " + lastName;
-console.log(name);
+const fullName = firstName + " " + lastName;
+console.log(fullName);
 
 // ==========================================
 // 7. Declareer een variabele voor jouw woonplaats en een variabele voor provincie en zet de waardes erin.
